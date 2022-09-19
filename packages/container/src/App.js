@@ -9,8 +9,8 @@ const history = createBrowserHistory();
 const Header = () => (
     <div>
         <Link to='/'>home</Link><br />
-        <Link to='/react'>Use react</Link><br />
-        <Link to='/vue'>Use vue</Link>
+        <Link to='/react'>use react</Link><br />
+        <Link to='/vue'>use vue</Link>
     </div >
 )
 
